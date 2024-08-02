@@ -1,0 +1,73 @@
+style
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #f0f0f0;
+color: #333;
+}
+header {
+background-color: #4CAF50;
+padding: 20px;
+color: white;
+text-align: center;
+}
+nav ul {
+list-style-type: none;
+padding: 0;
+text-align: center;
+}
+nav ul li {
+display: inline;
+margin-right: 20px;
+}
+nav ul li a {
+color: white;
+text-decoration: none;
+}
+nav ul li a:hover {
+text-decoration: underline;
+}
+main {
+padding: 20px;
+}
+section {
+margin-bottom: 20px;
+background-color: #fff;
+padding: 20px;
+border-radius: 8px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+h2 {
+color: #4CAF50;
+}
+footer {
+background-color: #4CAF50;
+color: white;
+text-align: center;
+padding: 20px;
+}
+.car-image{
+background-image: url(Conceito-de-carro-eletrico-2-shutterstock_657821383.jpg.jpeg);
+background-size: cover;
+background-position: center;
+height:200px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.bike-image {
+background-image:url(ari.png);
+background-size: cover;
+background-position: center;
+height: 200px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.bus-image {
+background-image: url(ari2.jpeg);
+background-size: cover;
+background-position: center;
+height: 200px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
